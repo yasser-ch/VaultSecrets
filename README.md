@@ -6,7 +6,7 @@ Application Android de démonstration de la gestion sécurisée des secrets et d
 
 ## 📱 Aperçu
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/9ad9a93d-dccf-49c1-b125-de644423b0ca" />
+<img width="108" height="240" alt="image" src="https://github.com/user-attachments/assets/9ad9a93d-dccf-49c1-b125-de644423b0ca" />
 
 
 
