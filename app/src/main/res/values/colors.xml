@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#0F0E17</color>
+    <color name="bg_card">#1C1B29</color>
+    <color name="bg_card_dark">#13121E</color>
+    <color name="purple_primary">#7C6FFF</color>
+    <color name="purple_dim">#2E2A5E</color>
+    <color name="teal_accent">#00E5C0</color>
+    <color name="text_primary">#EEEEFF</color>
+    <color name="text_muted">#6E6D8A</color>
+    <color name="danger">#FF4757</color>
+    <color name="warning">#FFB830</color>
+    <color name="success">#2ED573</color>
+</resources>
